@@ -1,6 +1,7 @@
-p{
-	background-color:lightblue;
-	padding:50px 300px ;
+div{
+	background-color:solid lightblue;
+	width:300px;
+	padding:50px;
 	border:15px solid blue;
 	margin:20px;
 }
